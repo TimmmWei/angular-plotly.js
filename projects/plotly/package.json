@@ -2,8 +2,8 @@
   "name": "angular-plotly.js",
   "version": "3.0.0",
   "peerDependencies": {
-    "@angular/common": "^10.0.9",
-    "@angular/core": "^10.0.9"
+    "@angular/common": "^11.1.4",
+    "@angular/core": "^11.1.4"
   },
   "devDependencies": {
     "plotly.js-dist": "^1.54.7"
