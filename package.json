@@ -7,7 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "prepare": "npm install && ng build -prod"
+    "prepare": "npm install && ng build --prod"
   },
   "private": true,
   "dependencies": {
